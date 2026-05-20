@@ -1,0 +1,24 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Face Recognition
+facenet-pytorch>=2.6.0
+
+# Metrics
+torchmetrics>=1.0.0
+
+# Adversarial Attacks
+torchattacks>=3.5.0
+
+# Image Processing
+pillow>=10.0.0
+imageio>=2.30.0
+scikit-image>=0.21.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+pandas>=2.0.0
